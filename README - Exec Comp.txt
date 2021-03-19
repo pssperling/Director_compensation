@@ -1,0 +1,2 @@
+Edgar_Executive_Comp_2000_2020 is a code ised to scrape executive compensation data from Edgar 10-K or annual reports and DEF-14A or proxy statements. 
+The code assumes that a user has a data file with links to Edgar to statements, scrapes pages and creates a csv file in a user's local folder. 
